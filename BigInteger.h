@@ -1,5 +1,5 @@
-#ifndef ARITHMATIC_H
-#define ARITHMATIC_H
+#ifndef BIGINTEGER_H
+#define BIGINTEGER_H
 
 struct node
 {
